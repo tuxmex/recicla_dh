@@ -6977,19 +6977,7 @@ Los estudiantes aprenderán:
 - Integración con servicios en la nube
 - Resolución de problemas reales
 - Buenas prácticas de programación
-
-### 📚 ¿Necesitas más?
-
-Si necesitas alguna sección adicional, como:
-- Implementación de Cloud Functions
-- Testing más avanzado
-- CI/CD con GitHub Actions
-- Despliegue en Play Store
-- Más pantallas específicas
-
-¡Solo pídemelo y lo desarrollo con el mismo nivel de detalle!
-
-Todas las pantallas del proyecto restante y codigos necesarios para su funcionamiento
+ 
 PARTE 19: PANTALLAS RESTANTES Y CÓDIGO COMPLETO
 19.1 PerfilScreen (Pantalla de Perfil)
 
@@ -7199,9 +7187,9 @@ class PerfilViewModel @Inject constructor(
         _errorMessage.value = null
     }
 }
-
+```
 📁 ui/screens/perfil/PerfilScreen.kt
-kotlin
+```kotlin
 
 package mx.edu.utng.reciclaDH.ui.screens.perfil
 
